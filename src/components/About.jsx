@@ -3,6 +3,7 @@ import aboutImage from '../assets/images/about-image.jpg';
 
 function About() {
     return (
+        // <div id="about-page" data-scroll data-scroll-section data-scroll-speed="-0.3">
         <div id="about-page">
             <div id="about-page-1">
                 <div id="about-page-1-top">
